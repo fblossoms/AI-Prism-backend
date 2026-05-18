@@ -2,7 +2,7 @@
 
 AI Prism Backend 是 AI Prism 的 Go 后端服务，提供 AI 对话、讲解练习、学习流程、知识库、文档处理和模型服务接入等核心接口。
 
-全栈项目地址：[fblossoms/AI-Prism](https://github.com/fblossoms/AI-Prism)
+全栈项目地址：[AI-Prism](https://github.com/weimingfei/AI-Prism)
 
 ## 功能特性
 
